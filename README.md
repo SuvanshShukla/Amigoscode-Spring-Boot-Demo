@@ -1,13 +1,7 @@
 # Amigoscode Spring-Boot Tutorial
 ---
 
-## Contents
----
-
-
-
 ## Intro
-![[Screenshot from 2021-10-08 11-52-08.png]]
 - Spring Boot is a framework
 - we use the [Spring starter template website](start.spring.io) to start our project.
 - added dependencies include 
